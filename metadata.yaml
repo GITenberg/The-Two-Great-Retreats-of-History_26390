@@ -1,0 +1,48 @@
+_repo: The-Two-Great-Retreats-of-History_26390
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26390-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Grote, George
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '4168'
+    url: http://www.gutenberg.org/2009/agents/4168
+    wikipedia: http://en.wikipedia.org/wiki/George_Grote
+  - agent_name: Ségur, Philippe-Paul, comte de
+    alias: Segur, Philippe-Paul, comte de
+    birthdate: 1780
+    deathdate: 1873
+    gutenberg_agent_id: '7815'
+    url: http://www.gutenberg.org/2009/agents/7815
+    wikipedia: http://fr.wikipedia.org/wiki/Philippe_Paul_de_S%C3%A9gur
+  editor:
+    agent_name: Montgomery, D. H. (David Henry)
+    alias: Montgomery, David Henry
+    birthdate: 1837
+    deathdate: 1928
+    gutenberg_agent_id: '7342'
+    url: http://www.gutenberg.org/2009/agents/7342
+description: ''
+gutenberg_bookshelf: Napoleonic(Bookshelf)
+gutenberg_issued: '2008-08-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26390'
+  lccn: 05014932
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia'
+- !lcsh 'Xenophon, 426 B.C.-355 B.C.'
+- !lcc 'DS'
+- !lcsh 'Iran -- History -- To 640'
+tableOfContents: The retreat of the ten thousand -- Napoleon's retreat from Moscow.
+title: The Two Great Retreats of History
+url: http://www.gutenberg.org/ebooks/26390
